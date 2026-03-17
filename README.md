@@ -1,7 +1,4 @@
 # Concentric-Ring-Generator
-Generates concentric rings for the Unity Game Engine with full control of rotation, placement and randomization. Implemented as the Megalithic Stone Circle Generator, available free on the Unity Asset Store.
+This is a simple framework written in C# for the Unity Game Engine. Use it to generate concentric rings of objects with full control over placement, rotation and randomization options. The base classes were then extended to be used in the "Stone Circle Generator" unity asset. This asset has been slightly modified and republished as a free asset available soon on the Unity Asset Store. Watch the video for a demonstration of the features here: https://www.youtube.com/watch?v=M8XP35rHC_s
 
-Unity Asset Store Download (Recommended):
-
-You can also copy the "DigitalHorde" folder into your Unity Assets directory to import, or use the included .unitypackage file to import.
-
+A runtime API has also been added allowing stone circles to be generated during runtime and has been tested on Unity versions 2020.3 - 6000.3.
