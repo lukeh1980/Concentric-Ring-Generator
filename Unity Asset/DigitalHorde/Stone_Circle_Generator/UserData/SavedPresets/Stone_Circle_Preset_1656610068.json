@@ -1,0 +1,233 @@
+{
+    "stoneCircleManager": {
+        "position": {
+            "x": -91.80999755859375,
+            "y": 61.0624885559082,
+            "z": -31.200000762939454
+        },
+        "xOrientation": 0.0,
+        "yOrientation": 0.0,
+        "zOrientation": 0.0,
+        "useCenterPieceOverride": true,
+        "centerPieceIndex": 0,
+        "centerPiecePath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/CenterTypes/Samples/HornedAltar1.prefab",
+        "snapEndPointsToTerrain": true,
+        "endPointHeightOffset": -0.4000000059604645,
+        "hideCollidingTerrainObjects": false,
+        "hideSelfOnCollidingTerrainObjects": false
+    },
+    "stoneCircleRingsList": [
+        {
+            "ringID": 1,
+            "ringLabel": "RING 1",
+            "currentEndPointFolderIndex": 5,
+            "currentEndPointFolderPath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/EndPointTypes/StoneHenge",
+            "useEndPointOverride": false,
+            "endPointOverridePath": "",
+            "overrideSettings": false,
+            "numberOfEndPointsOverride": 1,
+            "radiusOverride": 1.0,
+            "numberOfEndPoints": 28,
+            "radius": 38.599998474121097,
+            "entranceGapSize": 0,
+            "ringOffsetHeight": 0.0,
+            "orientEndPointsTowardCenter": true,
+            "xOrientation": 0.0,
+            "yOrientation": 0.0,
+            "zOrientation": 0.0,
+            "randomizeEndPointRotation": false,
+            "minMaxRandomRotationSlider": {
+                "x": -20.0,
+                "y": 20.0
+            },
+            "randomizeEndPointTiltLean": false,
+            "minMaxTiltLeanSlider": {
+                "x": -3.0,
+                "y": 3.0
+            },
+            "randomizeEndPointPlacement": false,
+            "minMaxEndPointPlacementSlider": {
+                "x": -20.0,
+                "y": 20.0
+            },
+            "randomizeEndPointRadius": false,
+            "minMaxEndPointRadiusSlider": {
+                "x": -3.0,
+                "y": 3.0
+            },
+            "randomizeEndPointScale": false,
+            "keepProportion": true,
+            "randomizeEndPointScaleSlider": {
+                "x": 0.6299999952316284,
+                "y": 0.6700000166893005
+            },
+            "randomizeEndPointGaps": true,
+            "randomizeEndPointGapsSlider": {
+                "x": 16.139999389648439,
+                "y": 57.02000045776367
+            },
+            "replaceGapsWithRubble": true,
+            "currentGapsRubbleFolderIndex": 3,
+            "currentGapsRubbleFolderPath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/EndPointTypes/Rubble"
+        },
+        {
+            "ringID": 2,
+            "ringLabel": "RING 2",
+            "currentEndPointFolderIndex": 4,
+            "currentEndPointFolderPath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/EndPointTypes/Short Stones",
+            "useEndPointOverride": false,
+            "endPointOverridePath": "",
+            "overrideSettings": false,
+            "numberOfEndPointsOverride": 1,
+            "radiusOverride": 1.0,
+            "numberOfEndPoints": 25,
+            "radius": 26.0,
+            "entranceGapSize": 0,
+            "ringOffsetHeight": 0.0,
+            "orientEndPointsTowardCenter": true,
+            "xOrientation": 0.0,
+            "yOrientation": 0.0,
+            "zOrientation": 0.0,
+            "randomizeEndPointRotation": true,
+            "minMaxRandomRotationSlider": {
+                "x": -29.0,
+                "y": 11.0
+            },
+            "randomizeEndPointTiltLean": false,
+            "minMaxTiltLeanSlider": {
+                "x": -3.0,
+                "y": 3.0
+            },
+            "randomizeEndPointPlacement": true,
+            "minMaxEndPointPlacementSlider": {
+                "x": -60.20000076293945,
+                "y": 20.0
+            },
+            "randomizeEndPointRadius": true,
+            "minMaxEndPointRadiusSlider": {
+                "x": -42.65999984741211,
+                "y": 31.329999923706056
+            },
+            "randomizeEndPointScale": false,
+            "keepProportion": false,
+            "randomizeEndPointScaleSlider": {
+                "x": 0.800000011920929,
+                "y": 1.5
+            },
+            "randomizeEndPointGaps": false,
+            "randomizeEndPointGapsSlider": {
+                "x": 10.0,
+                "y": 20.0
+            },
+            "replaceGapsWithRubble": false,
+            "currentGapsRubbleFolderIndex": 0,
+            "currentGapsRubbleFolderPath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/EndPointTypes/Cut Stones"
+        },
+        {
+            "ringID": 3,
+            "ringLabel": "RING 3",
+            "currentEndPointFolderIndex": 0,
+            "currentEndPointFolderPath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/EndPointTypes/Cut Stones",
+            "useEndPointOverride": false,
+            "endPointOverridePath": "",
+            "overrideSettings": false,
+            "numberOfEndPointsOverride": 1,
+            "radiusOverride": 1.0,
+            "numberOfEndPoints": 14,
+            "radius": 8.899999618530274,
+            "entranceGapSize": 22,
+            "ringOffsetHeight": 0.0,
+            "orientEndPointsTowardCenter": true,
+            "xOrientation": 0.0,
+            "yOrientation": 0.0,
+            "zOrientation": 0.0,
+            "randomizeEndPointRotation": true,
+            "minMaxRandomRotationSlider": {
+                "x": -20.0,
+                "y": 20.0
+            },
+            "randomizeEndPointTiltLean": false,
+            "minMaxTiltLeanSlider": {
+                "x": -3.0,
+                "y": 3.0
+            },
+            "randomizeEndPointPlacement": false,
+            "minMaxEndPointPlacementSlider": {
+                "x": -20.0,
+                "y": 20.0
+            },
+            "randomizeEndPointRadius": false,
+            "minMaxEndPointRadiusSlider": {
+                "x": -3.0,
+                "y": 3.0
+            },
+            "randomizeEndPointScale": true,
+            "keepProportion": true,
+            "randomizeEndPointScaleSlider": {
+                "x": 1.0800000429153443,
+                "y": 1.190000057220459
+            },
+            "randomizeEndPointGaps": false,
+            "randomizeEndPointGapsSlider": {
+                "x": 10.0,
+                "y": 20.0
+            },
+            "replaceGapsWithRubble": false,
+            "currentGapsRubbleFolderIndex": 0,
+            "currentGapsRubbleFolderPath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/EndPointTypes/Cut Stones"
+        },
+        {
+            "ringID": 4,
+            "ringLabel": "RING 4",
+            "currentEndPointFolderIndex": 2,
+            "currentEndPointFolderPath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/EndPointTypes/Medium Stones",
+            "useEndPointOverride": false,
+            "endPointOverridePath": "",
+            "overrideSettings": false,
+            "numberOfEndPointsOverride": 1,
+            "radiusOverride": 1.0,
+            "numberOfEndPoints": 6,
+            "radius": 26.700000762939454,
+            "entranceGapSize": 0,
+            "ringOffsetHeight": 0.0,
+            "orientEndPointsTowardCenter": true,
+            "xOrientation": 0.0,
+            "yOrientation": 0.0,
+            "zOrientation": 0.0,
+            "randomizeEndPointRotation": true,
+            "minMaxRandomRotationSlider": {
+                "x": -20.0,
+                "y": 20.0
+            },
+            "randomizeEndPointTiltLean": false,
+            "minMaxTiltLeanSlider": {
+                "x": -3.0,
+                "y": 3.0
+            },
+            "randomizeEndPointPlacement": true,
+            "minMaxEndPointPlacementSlider": {
+                "x": -15.609999656677246,
+                "y": 61.369998931884769
+            },
+            "randomizeEndPointRadius": true,
+            "minMaxEndPointRadiusSlider": {
+                "x": -26.329999923706056,
+                "y": 18.670000076293947
+            },
+            "randomizeEndPointScale": true,
+            "keepProportion": false,
+            "randomizeEndPointScaleSlider": {
+                "x": 2.549999952316284,
+                "y": 2.8399999141693117
+            },
+            "randomizeEndPointGaps": false,
+            "randomizeEndPointGapsSlider": {
+                "x": 10.0,
+                "y": 20.0
+            },
+            "replaceGapsWithRubble": false,
+            "currentGapsRubbleFolderIndex": 0,
+            "currentGapsRubbleFolderPath": "Assets/VarcanRex/Stone_Circle_Generator/UserData/EndPointTypes/Cut Stones"
+        }
+    ]
+}
