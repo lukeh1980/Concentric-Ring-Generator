@@ -5,4 +5,4 @@ All features are demonstrated execept for the runtime API that I've also added. 
 
 Materials can be easily converted to HDRP materials using the built in wizard in unity. I have materials for the Built-in Render Pipeline for download as well but it will require manual assignment as there isn't an easy way to covert from URP or HDRP to BRP. 
 
-Full source code is available, easily extendable. Simply drag and drop the "DigitalHorde" folder in your Unity project's Assets folder to use. This version has been tested on Unity versions 2020.3 - 6000.3
+Full source code is available, easily extendable. Simply drag and drop the "DigitalHorde" folder in your Unity project's Assets folder to use. This version has been tested on Unity versions 2021.3 - 6000.3
