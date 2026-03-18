@@ -3,4 +3,6 @@ This is a simple framework written in C# for the Unity Game Engine. The CRG base
 
 All features are demonstrated execept for the runtime API that I've also added. The original utility was only designed to work in the Unity Editor, allowing you to generate complex structures for placement within your game. The runtime API allows you to generate these in-game with almost all features implemented.
 
+Materials can be easily converted to HDRP materials using the built in wizard in unity. I have materials for the Built-in Render Pipeline for download as well but it will require manual assignment as there isn't an easy way to covert from URP or HDRP to BRP. 
+
 Full source code is available, easily extendable as other implementations. Simply drag and drop the "DigitalHorde" folder in your Unity project's Assets folder or download and import the .unitypackage file. This version has been tested on Unity versions 2020.3 - 6000.3
